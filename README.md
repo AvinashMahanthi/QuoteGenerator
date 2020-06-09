@@ -1,4 +1,4 @@
-# i_am_poor
+# JokerQuotes
 
 A new Flutter application.
 
