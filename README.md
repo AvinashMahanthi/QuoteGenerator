@@ -1,6 +1,6 @@
 # JokerQuotes
 
-A new Flutter application.last
+A new Flutter application.
 
 ## Getting Started
 
