@@ -1,7 +1,7 @@
 # JokerQuotes
 
 A new Flutter application.
-final 
+fin
 ## Getting Started
 
 This project is a starting point for a Flutter application.
